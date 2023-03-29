@@ -158,7 +158,6 @@ geometry: "The spatial information that defines the boundaries and shape of a ne
 """
 
 # Installation of necessary modules 
-pip install ipywidgets contextily geopandas geoplot
 import ipywidgets as widgets
 from IPython.display import display, clear_output
 from matplotlib import pyplot as plt
